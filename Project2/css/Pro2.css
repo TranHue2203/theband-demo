@@ -1,0 +1,13 @@
+*{
+
+}
+#header .head{
+    background-image: url(./img/bg-header-transparent-home.png);
+    width: 139px;
+    height: 90px;
+    display: block;
+}
+#header .theater{
+    background-position: 10px 0;
+}
+
